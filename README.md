@@ -9,3 +9,4 @@ Continuously exploring new technologies to enhance the\
 [![Codewars Badge](https://www.codewars.com/users/eztoen/badges/large)](https://www.codewars.com/users/eztoen)
 
 ## Languages and Tools 
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
