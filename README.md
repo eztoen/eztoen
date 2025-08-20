@@ -3,9 +3,8 @@
 ## About me
 I`m a **Python Backend Developer** from Russia.\
 I enjoy building web aplications using FastAPI.\
-Continuously exploring new technologies to imporove\
+Continuously exploring new technologies to improve\
 **performance**, **usability**, and **security** of my projects.
-
 
 
 ## Languages and Tools 
