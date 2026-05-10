@@ -20,7 +20,7 @@ Continuously exploring new technologies to improve\
 
 ## Stats
 
-![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=eztoen&show_icons=true&theme=dark)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eztoen)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Codewars Badge](https://www.codewars.com/users/eztoen/badges/large)](https://www.codewars.com/users/eztoen)
 
