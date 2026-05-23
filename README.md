@@ -18,14 +18,5 @@ Continuously exploring new technologies to improve\
 ![ubuntu](https://img.shields.io/badge/ubuntu-black?style=for-the-badge&logo=ubuntu)
 ![debian](https://img.shields.io/badge/debian-black?style=for-the-badge&logo=debian)          
 
-## Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eztoen)](https://github.com/pranesh-2005/github-readme-stats-fast)
-
-[![Codewars Badge](https://www.codewars.com/users/eztoen/badges/large)](https://www.codewars.com/users/eztoen)
-
 ## Contact
 **Telegram**: [**eztoen**](https://t.me/eztoen)
-
-
-
