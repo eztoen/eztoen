@@ -17,6 +17,3 @@ Continuously exploring new technologies to improve\
 ![sqlalchemy](https://img.shields.io/badge/sqlalchemy-black?style=for-the-badge&logo=sqlalchemy)
 ![ubuntu](https://img.shields.io/badge/ubuntu-black?style=for-the-badge&logo=ubuntu)
 ![debian](https://img.shields.io/badge/debian-black?style=for-the-badge&logo=debian)          
-
-## Contact
-**Telegram**: [**eztoen**](https://t.me/eztoen)
